@@ -1,7 +1,6 @@
-# Show me the code
 
 ### # DESAFIO:
-API REST Conserto Celular - Porto Seguro:
+API REST Conserto Celular
 
 Construa as seguintes Funcionalidades:
 
