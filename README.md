@@ -11,7 +11,7 @@ Construa as seguintes Funcionalidades:
 	{ "cep": 04551-065} = Atendimento não realizado para região de Guaruja.
 ```
 ```
-2 - Orcamento do conserto
+2 - Orçamento do conserto
   Dado entrada de um modelo de celular, marca e parametros com defeito como "Tela", "Touch Screan", "Bateria", "Cabo", "Volume", "Botão Ligar" entre outros, é esperado uma saida descrição do conserto e valores individuais de cada item mais um valor acrecido de 15% e 5% do valor total para frete e despesas de serviços!
 	entrada = { "marca": Iphone, "modelo": 11 pro, "tela": true } 
 	saida   = { "marca": Iphone, "modelo": 11 pro, "tela": true, "total": 540,00, "frete": 67,5, "custos": 22,5 }
