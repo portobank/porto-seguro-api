@@ -57,8 +57,6 @@ Seria intuitivo uma Funcionalidade de retorno de preço para cada Item em especi
 Você será avaliado pela usabilidade, é esperado que você consiga explicar as decisões que tomou durante o desenvolvimento através de commits e uma breve explicação na entrevista.
 
 * Definir tratativas de erros e padronização no response.
-* Criação do Swagger seria bem visto!
-
 * Swagger - https://editor.swagger.io/
 * Springboot - Java - Maven (preferêncialmente) (https://projects.spring.io/spring-boot/)
 * RESTFul (https://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
