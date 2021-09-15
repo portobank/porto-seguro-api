@@ -8,7 +8,6 @@ Funcionalidade: Consulta de CEP
 	{ "cep": 01207-900} = CEP Aprovado 
 	{ "cep": 04551-065} = Atendimento não realizado para região de Guaruja.
 
-
 ```
 ```
 Funcionalidade: Orcamento do conserto
@@ -28,7 +27,6 @@ Funcionalidade: Orcamento do conserto
 
 	OBS: Voce decido como será o padrão de saida,valores e da descrição do orçamento contanto que tenha as informações para cada solicitação e caso não exista cadastrado a marca ou modelo solicitado tambem deve ser informado.
 
-
 ```
 ```
 
@@ -36,10 +34,8 @@ Funcionalidade: Validação Cliente
    Deve ser feita uma validação se o cliente que solicitou o orcamento já realizou orçamentos anteriores criando assim um historico de solicitações e atendimentos realizados e não realizados do mesmo cliente.	
 	{ "cliente": Marcos Silva, "email": marcos.silva@gmail.com, "cpf": 000.012.050-00, "endereco": rua xxxx, "pagamento": cartao, "orcamentos": 5, "concluidos": 3 }
 
-
 ```
 ```
-
 Funcionalidade: Marca Modelo
    Deve ser feita uma validação de marca e modelo dos aparelhos para auxílio na funcionalidade de Orçamento do conserto.
 	entrada = { "marca": LG, "modelo": k222 }
