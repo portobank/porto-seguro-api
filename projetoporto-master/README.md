@@ -18,3 +18,4 @@ Bom, aqui eu consegui colocar a quantidade de vezes que gera um novo atendimento
 Consegui entrar esses 3 em um dia, poderia ter feito um pouco melhor se tivesse mais tempo, mas desde já agradeço todos vocês pela oportunidade !!
 
 
+
